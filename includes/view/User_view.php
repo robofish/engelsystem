@@ -160,7 +160,7 @@ function User_view($user_source, $admin_user_privilege, $freeloader, $user_angel
           div('col-md-3', array(
               '<h1>',
               '<span class="glyphicon glyphicon-phone"></span>',
-              $user_source['DECT'],
+              $user_source['Handy'],
               '</h1>' 
           )),
           div('col-md-3', array(
